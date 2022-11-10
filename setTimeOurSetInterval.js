@@ -22,3 +22,8 @@ function greet2() {
 }
 
 intervalId = setInterval(greet2, 1000);
+
+
+//POLYFILL OF SETINTERVAL - Ultra Pro Max level
+
+
